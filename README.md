@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wanjah
-- 👀 I’m interested in Artificial Intelligence and machine learning
-- 📫 How to reach me - my email is hingasarah132@gmail.com
+- 👀 I’m interested in Artificial Intelligence and making applications that are accessible for all users.
+- 📫 How to reach me - my email is hingasarah132@gmail.com 
 - ✨ Fun fact, I enjoy reading books, doing research, working out and adventure
 
 <!---
